@@ -11,4 +11,5 @@ A: It might be a full-time thing for me, and it probably won't be public anytime
 
 ## Credits
 *IEDS* - *Lead Developer*
+
 *nikitimeYO* - *Developer and NodeJS/JavaScript help*
